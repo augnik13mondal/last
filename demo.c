@@ -1,6 +1,7 @@
 #include<stdio.h>
 {
 {
+int a=2
 int main()
 int a=2
 int a=5;
